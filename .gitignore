@@ -1,3 +1,5 @@
 *.pkl
 data/output_masks
 data/raw/1tqzx39mzkw832msuvy3obktqi
+
+*.py
